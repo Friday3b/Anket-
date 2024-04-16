@@ -1,0 +1,13 @@
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\obj\Debug\HomeTask 001.csproj.AssemblyReference.cache
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\obj\Debug\HomeTask_001.Form1.resources
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\obj\Debug\HomeTask_001.Properties.Resources.resources
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\obj\Debug\HomeTask 001.csproj.GenerateResource.cache
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\obj\Debug\HomeTask 001.csproj.CoreCompileInputs.cache
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\bin\Debug\HomeTask 001.exe.config
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\bin\Debug\HomeTask 001.exe
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\bin\Debug\HomeTask 001.pdb
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\obj\Debug\HomeTask 001.exe
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\obj\Debug\HomeTask 001.pdb
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Taleh\source\repos\HomeTask 001\HomeTask 001\obj\Debug\HomeTask 001.csproj.CopyComplete
